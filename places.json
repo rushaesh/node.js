@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Eiffel Tower",
+      "price": 500,
+      "featured": true,
+      "Rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Great Wall of China",
+      "price": 1000,
+      "featured": false,
+      "Rating": 4.8,
+      "company": "samsung"
+    },
+    {
+      "name": "Taj Mahal",
+      "price": 750,
+      "featured": true,
+      "Rating": 5.0,
+      "company": "dell"
+    },
+    {
+      "name": "Statue of Liberty",
+      "price": 600,
+      "featured": false,
+      "Rating": 4.7,
+      "company": "mi"
+    },
+    {
+      "name": "Machu Picchu",
+      "price": 1200,
+      "featured": true,
+      "Rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Colosseum",
+      "price": 850,
+      "featured": false,
+      "Rating": 4.8,
+      "company": "samsung"
+    },
+    {
+      "name": "Big Ben",
+      "price": 450,
+      "featured": true,
+      "Rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "Burj Khalifa",
+      "price": 1300,
+      "featured": true,
+      "Rating": 5.0,
+      "company": "mi"
+    },
+    {
+      "name": "Christ the Redeemer",
+      "price": 700,
+      "featured": false,
+      "Rating": 4.6,
+      "company": "apple"
+    },
+    {
+      "name": "Sydney Opera House",
+      "price": 900,
+      "featured": true,
+      "Rating": 4.8,
+      "company": "samsung"
+    },
+    {
+      "name": "Leaning Tower of Pisa",
+      "price": 400,
+      "featured": false,
+      "Rating": 4.5,
+      "company": "dell"
+    },
+    {
+      "name": "Petra",
+      "price": 1100,
+      "featured": true,
+      "Rating": 4.9,
+      "company": "mi"
+    },
+    {
+      "name": "Mount Everest",
+      "price": 5000,
+      "featured": true,
+      "Rating": 5.0,
+      "company": "apple"
+    },
+    {
+      "name": "Niagara Falls",
+      "price": 300,
+      "featured": false,
+      "Rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Santorini",
+      "price": 950,
+      "featured": true,
+      "Rating": 4.8,
+      "company": "dell"
+    },
+    {
+      "name": "Times Square",
+      "price": 350,
+      "featured": false,
+      "Rating": 4.7,
+      "company": "mi"
+    },
+    {
+      "name": "Grand Canyon",
+      "price": 1200,
+      "featured": true,
+      "Rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Stonehenge",
+      "price": 800,
+      "featured": false,
+      "Rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "Disneyland",
+      "price": 1500,
+      "featured": true,
+      "Rating": 5.0,
+      "company": "dell"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "price": 1000,
+      "featured": false,
+      "Rating": 4.8,
+      "company": "mi"
+    }
+  ]
+  
