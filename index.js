@@ -18,7 +18,7 @@ app.use("/api/places",places_routes);
 const start = async () => {
     try {
         await connectdb();
-        app.listen(PORT,'0.0.0.0', () => {
+        app.listen(PORT, () => {
             console.log(`${PORT} - Yes, I am connected`);
         });
     } catch (error) {
